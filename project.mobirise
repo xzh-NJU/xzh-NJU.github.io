@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-28_1034",
-    "currentPage": "page.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,12 +26,12 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 100,
+    "uniqCompNum": 104,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "page1.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -141,11 +141,11 @@
         }
       ]
     },
-    "page.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "",
         "title": "主页",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
